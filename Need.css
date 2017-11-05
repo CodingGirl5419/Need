@@ -1,0 +1,40 @@
+body {
+    /*background-image: url("");*/
+    background-color: black;
+    background-size: cover;
+}
+
+h1.fantasy {
+  font-family: "fantasy", fantasy;
+  color: red;
+  text-align: center;
+  font-size: 400%;
+}
+
+p {
+  color: red;
+  text-align: center;
+}
+
+input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+.button1 {
+font-size: %;
+background-color: red;
+border-radius: 5px;
+padding: 5px 5px;
+border: 2px solid white;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+    color: black;
+}
