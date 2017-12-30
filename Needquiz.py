@@ -9,7 +9,7 @@ print(start)
 #print("Incorrect")
 
 correct = 0
-incorrect = 0
+#incorrect = 0
 
 print("What is the setting of the story?")
 print("a. New York/21st century, b. Washington D.C./21st century, c. Nottawa, Wisconsin/21st century")
